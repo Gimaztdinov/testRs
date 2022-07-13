@@ -1,2 +1,2 @@
 const plus = (a, b) => a + b;
-oknfebvkinb
+console.log(plus);
